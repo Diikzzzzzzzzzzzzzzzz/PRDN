@@ -10,6 +10,6 @@ package com.mycompany.dkz_git;
  */
 public class Nim2213010352 {
     public static void main(String[] args) {
-        System.out.println("PRDN");
+        System.out.println("Rava Eko Cahyo");
     }
 }
