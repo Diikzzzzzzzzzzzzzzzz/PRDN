@@ -17,3 +17,4 @@ function pesanLucuDita() {
 
 // Memunculkan pesan lucu tentang Dita
 console.log(pesanLucuDita());
+https://github.com/thehashslinging/jayadi_fluidastatis/invitations
